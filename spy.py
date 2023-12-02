@@ -7,11 +7,7 @@ import telethon.sync
 from threading import Thread
 import collections
 
-DATETIME_FORMAT = '%Y-%m-%d %H:%M:%S'
-API_HASH = '9d28d2273ca9083fc78782bada29de74'
-API_ID = '25675375'
-BOT_TOKEN = "6665249942:AAH8PC6kWCay2-EuEEHAb-RRgCT26SigrC0"
-USER_NAME = "facting2023"
+DATETIME_FOR
 
 client = TelegramClient('data_thief', API_ID, API_HASH)
 
